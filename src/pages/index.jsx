@@ -21,7 +21,7 @@ const Index = () => (
     <Parallax pages={1}>
       <Hero offset={0}>
         <BigTitle>
-          Welcome to, <br /> Haak Bros Pizza.
+          Welcome to,<br /> Haak Bros Pizza.
         </BigTitle>
         <Subtitle>2 brothers with all you need to know about<br /> <em>frozen</em> pizza 🍕 .</Subtitle>
       </Hero>
