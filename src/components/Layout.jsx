@@ -6,7 +6,6 @@ import 'typeface-open-sans'
 
 const Layout = () => (
   <>
-    <SEO />
     <GlobalStyle />
   </>
 )
